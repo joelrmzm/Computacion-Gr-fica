@@ -1,0 +1,68 @@
+﻿'PRACTICA3.exe' (Win32): 'C:\Users\joelr\Documents\FI UNAM\Computación Grafica\Teoria\Tarea 2 Dibujo\Debug\PRACTICA3.exe' cargado. Símbolos cargados.
+'PRACTICA3.exe' (Win32): 'C:\Windows\SysWOW64\ntdll.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'PRACTICA3.exe' (Win32): 'C:\Windows\SysWOW64\kernel32.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'PRACTICA3.exe' (Win32): 'C:\Windows\SysWOW64\KernelBase.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'PRACTICA3.exe' (Win32): 'C:\Users\joelr\Documents\FI UNAM\Computación Grafica\Teoria\Tarea 2 Dibujo\PRACTICA3\glut32.dll' cargado. El módulo se compiló sin símbolos.
+'PRACTICA3.exe' (Win32): 'C:\Windows\SysWOW64\user32.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'PRACTICA3.exe' (Win32): 'C:\Windows\SysWOW64\win32u.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'PRACTICA3.exe' (Win32): 'C:\Windows\SysWOW64\gdi32.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'PRACTICA3.exe' (Win32): 'C:\Windows\SysWOW64\gdi32full.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'PRACTICA3.exe' (Win32): 'C:\Windows\SysWOW64\msvcp_win.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'PRACTICA3.exe' (Win32): 'C:\Windows\SysWOW64\ucrtbase.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'PRACTICA3.exe' (Win32): 'C:\Windows\SysWOW64\opengl32.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'PRACTICA3.exe' (Win32): 'C:\Windows\SysWOW64\msvcrt.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'PRACTICA3.exe' (Win32): 'C:\Windows\SysWOW64\advapi32.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'PRACTICA3.exe' (Win32): 'C:\Windows\SysWOW64\sechost.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'PRACTICA3.exe' (Win32): 'C:\Windows\SysWOW64\rpcrt4.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'PRACTICA3.exe' (Win32): 'C:\Windows\SysWOW64\sspicli.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'PRACTICA3.exe' (Win32): 'C:\Windows\SysWOW64\cryptbase.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'PRACTICA3.exe' (Win32): 'C:\Windows\SysWOW64\bcryptprimitives.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'PRACTICA3.exe' (Win32): 'C:\Windows\SysWOW64\glu32.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'PRACTICA3.exe' (Win32): 'C:\Windows\SysWOW64\winmm.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'PRACTICA3.exe' (Win32): 'C:\Windows\SysWOW64\ucrtbased.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'PRACTICA3.exe' (Win32): 'C:\Windows\SysWOW64\winmmbase.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'PRACTICA3.exe' (Win32): 'C:\Windows\SysWOW64\cfgmgr32.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'PRACTICA3.exe' (Win32): 'C:\Windows\SysWOW64\vcruntime140d.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'PRACTICA3.exe' (Win32): 'C:\Windows\SysWOW64\imm32.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'PRACTICA3.exe' (Win32): 'C:\Windows\SysWOW64\combase.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'PRACTICA3.exe' (Win32): 'C:\Windows\SysWOW64\uxtheme.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'PRACTICA3.exe' (Win32): 'C:\Windows\SysWOW64\msctf.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'PRACTICA3.exe' (Win32): 'C:\Windows\SysWOW64\oleaut32.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'PRACTICA3.exe' (Win32): 'C:\Windows\SysWOW64\dwmapi.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'PRACTICA3.exe' (Win32): 'C:\Windows\SysWOW64\ig9icd32.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'PRACTICA3.exe' (Win32): 'C:\Windows\SysWOW64\shell32.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'PRACTICA3.exe' (Win32): 'C:\Windows\SysWOW64\SHCore.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'PRACTICA3.exe' (Win32): 'C:\Windows\SysWOW64\windows.storage.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'PRACTICA3.exe' (Win32): 'C:\Windows\SysWOW64\shlwapi.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'PRACTICA3.exe' (Win32): 'C:\Windows\SysWOW64\kernel.appcore.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'PRACTICA3.exe' (Win32): 'C:\Windows\SysWOW64\powrprof.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'PRACTICA3.exe' (Win32): 'C:\Windows\SysWOW64\profapi.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'PRACTICA3.exe' (Win32): 'C:\Windows\SysWOW64\igc32.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'PRACTICA3.exe' (Win32): 'C:\Windows\SysWOW64\wtsapi32.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'PRACTICA3.exe' (Win32): 'C:\Windows\SysWOW64\version.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'PRACTICA3.exe' (Win32): 'C:\Windows\SysWOW64\version.dll' descargado
+'PRACTICA3.exe' (Win32): 'C:\Windows\SysWOW64\TextInputFramework.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'PRACTICA3.exe' (Win32): 'C:\Windows\SysWOW64\CoreUIComponents.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'PRACTICA3.exe' (Win32): 'C:\Windows\SysWOW64\CoreMessaging.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'PRACTICA3.exe' (Win32): 'C:\Windows\SysWOW64\WinTypes.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'PRACTICA3.exe' (Win32): 'C:\Windows\SysWOW64\ntmarta.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'PRACTICA3.exe' (Win32): 'C:\Windows\SysWOW64\WinTypes.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'PRACTICA3.exe' (Win32): 'C:\Windows\SysWOW64\WinTypes.dll' descargado
+'PRACTICA3.exe' (Win32): 'C:\Windows\SysWOW64\dxgi.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'PRACTICA3.exe' (Win32): 'C:\Windows\SysWOW64\d3d11.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'PRACTICA3.exe' (Win32): 'C:\Windows\SysWOW64\ResourcePolicyClient.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'PRACTICA3.exe' (Win32): 'C:\Windows\SysWOW64\ResourcePolicyClient.dll' descargado
+'PRACTICA3.exe' (Win32): 'C:\Windows\SysWOW64\igd10iumd32.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'PRACTICA3.exe' (Win32): 'C:\Windows\SysWOW64\ncrypt.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'PRACTICA3.exe' (Win32): 'C:\Windows\SysWOW64\bcrypt.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'PRACTICA3.exe' (Win32): 'C:\Windows\SysWOW64\ntasn1.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+El subproceso 0x350c terminó con código 0 (0x0).
+El subproceso 0x32c4 terminó con código 0 (0x0).
+El subproceso 0x2158 terminó con código 0 (0x0).
+El subproceso 0x3bc4 terminó con código 0 (0x0).
+El subproceso 0x2404 terminó con código 0 (0x0).
+El subproceso 0x1f98 terminó con código 0 (0x0).
+El subproceso 0x1c70 terminó con código 0 (0x0).
+El subproceso 0x30a0 terminó con código 0 (0x0).
+El subproceso 0x3900 terminó con código 0 (0x0).
+El programa '[4028] PRACTICA3.exe' terminó con código 0 (0x0).
